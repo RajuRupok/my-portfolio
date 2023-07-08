@@ -121,3 +121,7 @@ main{
 .about-info{
     text-align: center;
 }
+
+.section-description{
+    padding: 30px 150px;
+}
