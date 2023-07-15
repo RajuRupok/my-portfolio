@@ -63,7 +63,8 @@ nav a {
 /* header related styles */
 .header {
     background-color: #FFF8F3;
-    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-image: url('../images/header_bg.png'), 
+    
     background-repeat: no-repeat;
     background-position: bottom right, top left;
 }
@@ -198,7 +199,12 @@ footer {
 }
 
 .social-links a{
-    margin-right: 25px;
+    margin-right: 85px;
+    align-content: center;
+    padding-left: 90px;
+    /* padding-top: 50px;
+    margin-top: 50px; */
+
 }
 
 .contact input[type="text"], .contact input[type="email"],
